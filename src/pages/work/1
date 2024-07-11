@@ -1,4 +1,8 @@
 ---
+title: "Work Experience"
+description: "Details of my work experience."
+layout: "../layouts/PageLayout.astro"
+---
 import { getCollection } from "astro:content";
 import PageLayout from "@layouts/PageLayout.astro";
 import Container from "@components/Container.astro";
